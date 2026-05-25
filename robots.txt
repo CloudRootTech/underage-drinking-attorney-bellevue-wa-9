@@ -1,0 +1,4 @@
+User-agent: AhrefsBot
+Allow: /
+
+Sitemap: https://CloudRootTech.github.io/underage-drinking-attorney-bellevue-wa-9/sitemap.xml
